@@ -3,6 +3,7 @@
 using a classic Caesar shift substitution (3 letter shift)"""
 
 import string
+import os
 
 shift = 3
 choice = input("would you like to encode or decode?")
